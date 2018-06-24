@@ -34,3 +34,4 @@ node app.js add --title "Raj" --body "Meet Raj on your way to work"
 
 #### Notes:
 * In case of multiple commands being passed only the first command will be considered.
+* NoteIt requires the file notes-text.json to store it's notes. This file is initially empty and gets populated with notes later on. NoteIt will complain if this file is not found.
