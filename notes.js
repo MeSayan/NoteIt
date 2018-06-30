@@ -1,4 +1,3 @@
-const files = require('./files');
 const fs = require('fs');
 
 var printNote = (note) => {
